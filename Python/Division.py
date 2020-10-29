@@ -1,0 +1,6 @@
+a = int(input())
+b = int(input())
+k = (a // b)
+v = (a / b)
+print(k)
+print(v)
