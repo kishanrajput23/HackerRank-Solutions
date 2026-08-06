@@ -19,6 +19,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kishanrajput23.HackerRank-Solutions" alt="Visitors" />
 </p>
 
+<img width="1536" height="1024" alt="HackerRank" src="https://github.com/user-attachments/assets/739c291c-64c9-4361-9ce0-7b99ec724e00" />
+
 ---
 
 ## 📖 About
@@ -128,7 +130,7 @@ This repository is powered by my Chrome extension:
 
 Automatically syncs accepted coding solutions from platforms like **HackerRank**, **GeeksforGeeks**, and **LeetCode** directly to GitHub.
 
-👉 **Repository:** https://github.com/kishanrajput23/codehub-sync
+👉 **Repository:** https://github.com/kishanrajput23/CodeHub-Sync
 
 ---
 
