@@ -1,4 +1,4 @@
-<h1 align="center">🚀 HackerRank Solutions</h1>
+no<h1 align="center">🚀 HackerRank Solutions</h1>
 
 <p align="center">
   A curated collection of my accepted <strong>HackerRank</strong> solutions, automatically synced to GitHub using my custom-built Chrome extension <strong>CodeHub Sync</strong>.
@@ -162,4 +162,3 @@ This repository helps me:
 Made with ❤️ using **CodeHub Sync**
 
 </div>
-
