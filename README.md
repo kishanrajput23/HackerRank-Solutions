@@ -23,7 +23,7 @@ no<h1 align="center">🚀 HackerRank Solutions</h1>
 
 ---
 
-## 📖 About
+## 📖 About 
 
 This repository contains my accepted solutions to **HackerRank** coding challenges.
 
